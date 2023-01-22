@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="not_welcome">Not Welcome!</string>
+    <string name="hint">hint?</string>
+</resources>
